@@ -1,4 +1,4 @@
-# DigitProtect - Innovative FiveM Anti-DDoS & Anti-IP Spoofing Solution
+# VladibeerProtect - Innovative FiveM Anti-DDoS & Anti-IP Spoofing Solution
 
 DigitProtect is a high-performance, multi-layered DDoS protection system designed specifically for FiveM servers. Originally developed and used in 2023 (DynastyRP, Blackstory...), it leverages reverse proxies and deep packet inspection (DPI) on the Voxility network (70 Tb/s capacity) to protect game servers from volumetric attacks and sophisticated IP spoofing.
 
